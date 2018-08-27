@@ -8,4 +8,4 @@
 [What's web design?](/webdesign.md)
 
 
-[Who's Tim Burners-Lee?](/whos_tim_burners-lee.md)
+[Who's Tim Berners-Lee?](/timbernerslee.md)
