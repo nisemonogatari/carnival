@@ -4,3 +4,5 @@ So far, these are the pages and websites that I have worked on since I've starte
 Take a look, why don't you?
 
 [What's Web Design?](/portfolio/webdesign.html)
+[Scavenger Hunt page](/portfolio/scavenger-hunt.html)
+[HTML techniques (or, yeehaw.html](/portfolio/yeehaw.html)
